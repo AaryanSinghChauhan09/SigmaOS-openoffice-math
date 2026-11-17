@@ -3,7 +3,7 @@ name = "SigmaOS-openoffice-math"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "OpenOffice Math equation formatting, MathML tokenization, and formula layout tree"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
